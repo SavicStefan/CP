@@ -89,3 +89,6 @@ https://atcoder.jp/contests/abc127/tasks/abc127_f
 
 28. gledati upper bound resenja \
 https://codeforces.com/problemset/problem/1307/D
+
+29. Izaberi dva puta koja se ne seku da im je proizvod najveci \
+https://codeforces.com/contest/14/problem/D
