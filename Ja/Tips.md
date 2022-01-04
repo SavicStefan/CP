@@ -93,5 +93,5 @@ https://codeforces.com/problemset/problem/1307/D
 29. Izaberi dva puta koja se ne seku da im je proizvod najveci \
 https://codeforces.com/contest/14/problem/D
 
-30.  There is theorem that a graph admits an orientation to a strongly connected digraph if and only if every edge is part of what a cycle    \ 
+30.  There is theorem that a graph admits an orientation to a strongly connected digraph if and only if every edge is part of what a cycle. To znaci i da ako graph nema bridges, svaki cvor pripada barem jednom cycle      \
 https://codeforces.com/problemset/problem/118/E
