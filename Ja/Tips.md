@@ -95,3 +95,6 @@ https://codeforces.com/contest/14/problem/D
 
 30.  There is theorem that a graph admits an orientation to a strongly connected digraph if and only if every edge is part of what a cycle. To znaci i da ako graph nema bridges, svaki cvor pripada barem jednom cycle      \
 https://codeforces.com/problemset/problem/118/E
+
+31. Ternary for integers (f-ja mora biti prvo striktno rastuca pa striktno opadajuca ili obrnuto)          \
+https://codeforces.com/blog/entry/11497
