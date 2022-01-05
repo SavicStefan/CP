@@ -6,3 +6,6 @@ https://codeforces.com/contest/894/problem/B
 
 Ako primetimo walk ce najvise biti 2logn      \
 https://codeforces.com/contest/914/problem/D 
+
+ImpicitLazySegtree ili kompresija kverija (obratiti paznju na kverije sa l = r)     \
+https://codeforces.com/contest/803/problem/G
