@@ -99,3 +99,6 @@ https://codeforces.com/problemset/problem/118/E
 31. Ternary for integers (f-ja mora biti prvo striktno rastuca pa striktno opadajuca ili obrnuto)                         \
 https://codeforces.com/blog/entry/52010?#comment-360867        
 https://codeforces.com/blog/entry/11497
+
+32. Podeliti zadatak na pola       \
+https://codeforces.com/problemset/problem/888/E
