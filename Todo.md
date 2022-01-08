@@ -1,5 +1,6 @@
 # Contests
   1. https://codeforces.com/contest/888
+  2. https://codeforces.com/contest/962
 # Problems
   1. https://codeforces.com/contest/873/problem/F
   2. https://codeforces.com/contest/808/problem/G
