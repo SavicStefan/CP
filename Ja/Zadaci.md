@@ -9,3 +9,6 @@ https://codeforces.com/contest/914/problem/D
 
 ImpicitLazySegtree ili kompresija kverija (obratiti paznju na kverije sa l = r)     \
 https://codeforces.com/contest/803/problem/G
+
+Primena priority_queue       \
+https://codeforces.com/contest/1185/problem/C2
