@@ -102,3 +102,6 @@ https://codeforces.com/blog/entry/11497
 
 32. Podeliti zadatak na pola       \
 https://codeforces.com/problemset/problem/888/E
+
+33. Kad je bitan redosled izabranih obicno ide DP + bitmask, je l gledam i za svaki moguci redosled          \
+https://codeforces.com/contest/1185/problem/G1
