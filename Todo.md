@@ -7,14 +7,17 @@
 # EDU
   1. https://codeforces.com/contest/678
   2. https://codeforces.com/contest/652
-  3. https://codeforces.com/contest/691
-  4. https://codeforces.com/contest/620
-  5. https://codeforces.com/contest/609
-  6. https://codeforces.com/contest/616
-  7. https://codeforces.com/contest/612
-  8. https://codeforces.com/contest/660
-  9. https://codeforces.com/contest/628
-  10. https://codeforces.com/contest/632
+  3. https://codeforces.com/contest/1009
+  4. https://codeforces.com/contest/985
+  5. https://codeforces.com/contest/920
+  6. https://codeforces.com/contest/691
+  7. https://codeforces.com/contest/620
+  8. https://codeforces.com/contest/609
+  9. https://codeforces.com/contest/616
+  10. https://codeforces.com/contest/612
+  11. https://codeforces.com/contest/660
+  12. https://codeforces.com/contest/628
+  13. https://codeforces.com/contest/632
   
 
 # Problems
