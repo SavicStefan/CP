@@ -4,6 +4,19 @@
   3. https://codeforces.com/contest/962
   4. https://codeforces.com/contest/985
   5. https://codeforces.com/contest/920
+# EDU
+  1. https://codeforces.com/contest/678
+  2. https://codeforces.com/contest/652
+  3. https://codeforces.com/contest/691
+  4. https://codeforces.com/contest/620
+  5. https://codeforces.com/contest/609
+  6. https://codeforces.com/contest/616
+  7. https://codeforces.com/contest/612
+  8. https://codeforces.com/contest/660
+  9. https://codeforces.com/contest/628
+  10. https://codeforces.com/contest/632
+  
+
 # Problems
   1. https://codeforces.com/contest/954/problem/G
   2. https://codeforces.com/contest/1506/problem/G
