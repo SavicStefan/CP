@@ -105,3 +105,8 @@ https://codeforces.com/problemset/problem/888/E
 
 33. Kad je bitan redosled izabranih obicno ide DP + bitmask, je l gledam i za svaki moguci redosled          \
 https://codeforces.com/contest/1185/problem/G1
+
+34. Dato je n tacaka nadji najamanju euklidsku distancu izmadju dve razlicite tacke        \
+http://people.csail.mit.edu/indyk/6.838-old/handouts/lec17.pdf         \
+https://codeforces.com/problemset/problem/429/D
+
