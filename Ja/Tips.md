@@ -110,3 +110,6 @@ https://codeforces.com/contest/1185/problem/G1
 http://people.csail.mit.edu/indyk/6.838-old/handouts/lec17.pdf         \
 https://codeforces.com/problemset/problem/429/D
 
+35. Broj manjih na intervalu (ordered_set + Fenwick)        \
+https://codeforces.com/problemset/problem/785/E
+
