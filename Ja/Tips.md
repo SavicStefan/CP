@@ -115,3 +115,6 @@ https://codeforces.com/problemset/problem/785/E
 
 36. Dobra primena persisent        \
 https://codeforces.com/problemset/problem/893/F
+
+37. Kako povezivati graph pomocu segmentnog stabla       \
+https://codeforces.com/problemset/problem/786/B 
