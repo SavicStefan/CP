@@ -121,3 +121,6 @@ https://codeforces.com/problemset/problem/786/B
 
 38. M^x * M^y = M^(x + y), gde je M matrica     \
 https://codeforces.com/problemset/problem/718/C
+
+39. Pazi na negativne brojeve sa mod-om      \
+https://codeforces.com/problemset/problem/316/E2
