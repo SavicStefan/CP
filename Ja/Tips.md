@@ -124,3 +124,6 @@ https://codeforces.com/problemset/problem/718/C
 
 39. Pazi na negativne brojeve sa mod-om      \
 https://codeforces.com/problemset/problem/316/E2
+
+40. Resenje za problem D    \
+https://codeforces.com/blog/entry/99031
