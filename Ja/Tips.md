@@ -127,3 +127,6 @@ https://codeforces.com/problemset/problem/316/E2
 
 40. Resenje za problem D    \
 https://codeforces.com/blog/entry/99031
+
+41. Kad treba da nadjem min or samo krenem da je 11111.1111 i onda skidam od najvec do najmanje bita      \
+https://codeforces.com/contest/1624/problem/G 
