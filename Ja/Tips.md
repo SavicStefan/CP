@@ -130,3 +130,6 @@ https://codeforces.com/blog/entry/99031
 
 41. Kad treba da nadjem min or samo krenem da je 11111...1111 i onda skidam od najvec do najmanje bita      \
 https://codeforces.com/contest/1624/problem/G 
+
+42. Dobra fora sa segmentnim da ne radim ono sto sam ja radio    \
+https://codeforces.com/problemset/problem/1621/E
