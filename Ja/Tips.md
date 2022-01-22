@@ -133,3 +133,6 @@ https://codeforces.com/contest/1624/problem/G
 
 42. Dobra fora sa segmentnim da ne radim ono sto sam ja radio    \
 https://codeforces.com/problemset/problem/1621/E
+
+43. Dobra zadataka sa medianom      \
+https://codeforces.com/contest/1005/problem/E2
