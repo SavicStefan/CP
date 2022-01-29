@@ -12,3 +12,6 @@ https://codeforces.com/contest/803/problem/G
 
 Primena priority_queue       \
 https://codeforces.com/contest/1185/problem/C2
+
+Malo je cudan skontati, al je jako dobar zadatak    \
+https://codeforces.com/contest/1554/problem/B
