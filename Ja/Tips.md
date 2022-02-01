@@ -140,4 +140,5 @@ https://codeforces.com/contest/1005/problem/E2
 44. Meet in the middle - Meet in the middle is a search technique which is used when the input is small but not as small that brute force can be used. Like divide and conquer it splits the problem into two, solves them individually and then merge them. But we can’t apply meet in the middle like divide and conquer because we don’t have the same structure as the original problem. An easy (but I'm not sure if correct) way to distinguish them is that meet-in-the-middle is typically used to optimize a complete search. When you split the problem, ask yourself: "If the problem is the same for the two halves, and I can solve those halves by brute force, can I use those results to solve the full problem?". If the answer is yes, then it is DnC.       \
 https://codeforces.com/contest/1006/problem/F
 
-
+45. Dijkstra with negative weights - mora nesto sa potencijalnima da se gleda otprilike gledas da nema negativnih pa dodas nesto ili uocis na kraju koliko treba da dodas        \
+https://atcoder.jp/contests/abc237/tasks/abc237_e
