@@ -30,3 +30,4 @@
   7. https://atcoder.jp/contests/abc219/tasks/abc219_g
   8. Pogledati nlogn resenje https://codeforces.com/problemset/problem/14/
 # Other
+  1. https://codeforces.com/blog/entry/99270?#comment-880626
