@@ -1,3 +1,7 @@
+# Training
+  1. Upsolve all round betweeen 722 - 770 and make sure you understand all of the problems
+  2. Solve all problems from ABC 
+
 # Contests
   1. https://codeforces.com/contest/990
   2. https://codeforces.com/contest/888
