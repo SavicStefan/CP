@@ -3,7 +3,7 @@
   2. Solve all problems from ABC 
 # If you are bored
   1. https://codeforces.com/contest/1547
-  2. 
+  2. https://codeforces.com/contest/121/problem/E Upsolve but with segment tree
 
 # Contests
   1. https://codeforces.com/contest/990
