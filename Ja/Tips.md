@@ -142,3 +142,6 @@ https://codeforces.com/contest/1006/problem/F
 
 45. Dijkstra with negative weights - mora nesto sa potencijalnima da se gleda otprilike gledas da nema negativnih pa dodas nesto ili uocis na kraju koliko treba da dodas        \
 https://atcoder.jp/contests/abc237/tasks/abc237_e
+
+46. Boruvka's algorithm - mst algoritam veoma dobar stvar     \
+(https://codeforces.com/problemset/problem/888/G)
