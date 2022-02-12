@@ -22,3 +22,6 @@ https://codeforces.com/contest/1554/problem/B
 
 Mo gde treba naci broj dobrih segmenata (DS)   \
 https://codeforces.com/problemset/problem/877/F
+
+Nisam gledao da moram da skinem logn faktor i kad radis light-light probaj i preko elemenenata    \
+https://codeforces.com/problemset/problem/1468/M
