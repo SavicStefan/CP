@@ -145,3 +145,6 @@ https://atcoder.jp/contests/abc237/tasks/abc237_e
 
 46. Boruvka's algorithm - mst algoritam veoma dobar stvar     \
 (https://codeforces.com/problemset/problem/888/G)
+
+47. O(n^(3/2)) ovaj zadatak bi trebao da bude common    \
+https://codeforces.com/problemset/problem/425/D
