@@ -17,6 +17,8 @@ https://codeforces.com/contest/894/problem/B
 Nesto mi je cudan (Constructive + Math)    \
 https://codeforces.com/contest/894/problem/C
 
-
 Malo je cudan skontati, al je jako dobar zadatak (Greedy)  \
 https://codeforces.com/contest/1554/problem/B
+
+Mo gde treba naci broj dobrih segmenata (DS)   \
+https://codeforces.com/problemset/problem/877/F
