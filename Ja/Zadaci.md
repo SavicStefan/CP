@@ -23,5 +23,8 @@ https://codeforces.com/contest/1554/problem/B
 Mo gde treba naci broj dobrih segmenata (DS)   \
 https://codeforces.com/problemset/problem/877/F
 
-Nisam gledao da moram da skinem logn faktor i kad radis light-light probaj i preko elemenenata    \
+Nisam gledao da moram da skinem logn faktor i kad radis light-light probaj i preko elemenenata dobra fora    \
 https://codeforces.com/problemset/problem/1468/M
+
+Nisam obration paznju da ima multiple ivica izmedju dva cvora pa ne moze da idem kroz sve cycle-ove (Graph)   \
+https://atcoder.jp/contests/abc191/tasks/abc191_e
