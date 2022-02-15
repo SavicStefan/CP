@@ -151,3 +151,7 @@ https://codeforces.com/problemset/problem/425/D   \
 https://codeforces.com/blog/entry/11998?#comment-167207
 
 48. The ideas presented here are in two dimensions, but can be extended to further dimensions.  Each additional dimension requires double the amount of computations on each point.  For example, in 3-D space, the result is the maximum difference between the four extrema pairs computed from x+y+z, x+y-z, x-y+z, and x-y-z. (https://www.geeksforgeeks.org/maximum-manhattan-distance-between-a-distinct-pair-from-n-coordinates/#:~:text=Given%20an%20array%20arr%5B%5D,%2B%20%7CY1%20%E2%80%93%20Y2%7C)    https://codeforces.com/contest/1093/problem/G
+
+49. Paziti na mod sa negativnim brojevima i njihovo sabiranje i oduzimanje     \
+https://atcoder.jp/contests/abc151/tasks/abc151_e
+
