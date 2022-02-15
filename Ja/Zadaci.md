@@ -31,3 +31,6 @@ https://atcoder.jp/contests/abc191/tasks/abc191_e
 
 Nisam znao brute force da uradim, gledati matricu nekad i kao nis (ravnu)              \
 https://atcoder.jp/contests/abc196/tasks/abc196_d
+
+Kad treba koliko ima brojeva a + b <= X, gledaj odvojeno a + b = X i a + b < X mozda pomogne     \
+https://atcoder.jp/contests/abc129/tasks/abc129_e
