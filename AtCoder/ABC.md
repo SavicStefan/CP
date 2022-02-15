@@ -95,7 +95,12 @@
 
 | Contest   | # | Topic                            | 
 | --------- | - | -------------------------------- | 
-| ABC 144   | E | Combinatorics | 
+| ABC 151   | E | Combinatorics | 
+|           | F || 
+
+| Contest   | # | Topic                            | 
+| --------- | - | -------------------------------- | 
+| ABC 152   | E | Number theory | 
 |           | F || 
 
 | Contest   | # | Topic                            | 
