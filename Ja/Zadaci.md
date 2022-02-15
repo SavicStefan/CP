@@ -28,3 +28,6 @@ https://codeforces.com/problemset/problem/1468/M
 
 Nisam obration paznju da ima multiple ivica izmedju dva cvora pa ne moze da idem kroz sve cycle-ove (Graph)   \
 https://atcoder.jp/contests/abc191/tasks/abc191_e
+
+Nisam znao brute force da uradim, gledati matricu nekad i kao nis (ravnu)              \
+https://atcoder.jp/contests/abc196/tasks/abc196_d
