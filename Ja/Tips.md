@@ -155,3 +155,6 @@ https://codeforces.com/blog/entry/11998?#comment-167207
 49. Paziti na mod sa negativnim brojevima i njihovo sabiranje i oduzimanje     \
 https://atcoder.jp/contests/abc151/tasks/abc151_e
 
+50. Virtual edge     \
+https://atcoder.jp/contests/abc184/tasks/abc184_e
+
