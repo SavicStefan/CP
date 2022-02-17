@@ -35,3 +35,7 @@ https://atcoder.jp/contests/abc196/tasks/abc196_d
 Kad treba koliko ima brojeva a + b <= X, gledaj odvojeno a + b = X i a + b < X mozda pomogne     \
 https://atcoder.jp/contests/abc129/tasks/abc129_e        \
 https://atcoder.jp/contests/abc154/tasks/abc154_e
+
+Extended gcd proveriti jos jednom sad sam preumoran     \
+https://atcoder.jp/contests/abc186/tasks/abc186_e
+
