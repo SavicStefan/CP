@@ -9,7 +9,7 @@
 
 | Contest   | # | Topic                            | 
 | --------- | - | -------------------------------- | 
-| ABC 127  | E | Combinatorics                    | 
+| ABC 127   | E | Combinatorics                    | 
 |           | F | Fenwick             |
 
 
@@ -25,8 +25,13 @@
 
 | Contest   | # | Topic                            | 
 | --------- | - | -------------------------------- | 
+| ABC 130   | E | DP | 
+|           | F ||
+
+| Contest   | # | Topic                            | 
+| --------- | - | -------------------------------- | 
 | ABC 131   | E | Graph / Constructive| 
-|           | F || 
+|           | F | Graph / DSU| 
 
 | Contest   | # | Topic                            | 
 | --------- | - | -------------------------------- | 
@@ -208,7 +213,7 @@
 
 | Contest   | # | Topic                            | 
 | --------- | - | -------------------------------- | 
-| ABC 184   | D | | 
+| ABC 184   | D | DP / Probability| 
 |           | E | Bfs| 
 |           | F | Meet in the middle| 
 
@@ -216,6 +221,12 @@
 | --------- | - | -------------------------------- | 
 | ABC 185   | D | | 
 |           | E | DP| 
+|           | F || 
+
+| Contest   | # | Topic                            | 
+| --------- | - | -------------------------------- | 
+| ABC 186   | D | | 
+|           | E | Number theory | 
 |           | F || 
 
 | Contest   | # | Topic                            | 
