@@ -39,3 +39,6 @@ https://atcoder.jp/contests/abc154/tasks/abc154_e
 Extended gcd proveriti jos jednom sad sam preumoran     \
 https://atcoder.jp/contests/abc186/tasks/abc186_e
 
+Jako lep i dobar zadatak     \
+https://atcoder.jp/contests/abc136/tasks/abc136_e
+
