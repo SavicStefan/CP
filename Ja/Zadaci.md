@@ -45,3 +45,6 @@ https://atcoder.jp/contests/abc136/tasks/abc136_e
 Negative weighted cycle    \
 https://atcoder.jp/contests/abc137/tasks/abc137_e
 
+Classic   \
+https://atcoder.jp/contests/abc173/tasks/abc173_e
+
