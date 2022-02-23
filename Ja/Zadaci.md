@@ -23,7 +23,7 @@ https://codeforces.com/contest/1554/problem/B
 Mo gde treba naci broj dobrih segmenata (DS)   \
 https://codeforces.com/problemset/problem/877/F
 
-Nisam gledao da moram da skinem logn faktor i kad radis light-light probaj i preko elemenenata dobra fora    \
+Nisam gledao da moram da skinem logn faktor i kad radis light-light probaj i preko elemenenata dobra fora (SQRT)   \
 https://codeforces.com/problemset/problem/1468/M
 
 Nisam obration paznju da ima multiple ivica izmedju dva cvora pa ne moze da idem kroz sve cycle-ove (Graph)   \
@@ -32,11 +32,11 @@ https://atcoder.jp/contests/abc191/tasks/abc191_e
 Nisam znao brute force da uradim, gledati matricu nekad i kao nis (ravnu)              \
 https://atcoder.jp/contests/abc196/tasks/abc196_d
 
-Kad treba koliko ima brojeva a + b <= X, gledaj odvojeno a + b = X i a + b < X mozda pomogne     \
+Kad treba koliko ima brojeva a + b <= X, gledaj odvojeno a + b = X i a + b < X mozda pomogne (DP)    \
 https://atcoder.jp/contests/abc129/tasks/abc129_e        \
 https://atcoder.jp/contests/abc154/tasks/abc154_e
 
-Extended gcd proveriti jos jednom sad sam preumoran     \
+Extended gcd proveriti jos jednom sad sam preumoran (Math)    \
 https://atcoder.jp/contests/abc186/tasks/abc186_e
 
 Jako lep i dobar zadatak     \
@@ -47,4 +47,7 @@ https://atcoder.jp/contests/abc137/tasks/abc137_e
 
 Classic   \
 https://atcoder.jp/contests/abc173/tasks/abc173_e
+
+Veoma lep constranctiv zadatak, malo cudan za constrainins al ok     \
+https://codeforces.com/contest/892/problem/D
 
