@@ -161,3 +161,6 @@ https://atcoder.jp/contests/abc184/tasks/abc184_e
 51. Ako ti nekad treba longest distanc in weighted graph, mozes samo da negiras sve tezine na ivicama i radis shortest path  \  
 https://atcoder.jp/contests/abc137/tasks/abc137_e
 
+52. Distanca izmedju dva prosta broja je mala     \
+https://codeforces.com/contest/584/problem/D
+
