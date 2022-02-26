@@ -51,3 +51,5 @@ https://atcoder.jp/contests/abc173/tasks/abc173_e
 Veoma lep constranctiv zadatak, malo cudan za constrainins al ok     \
 https://codeforces.com/contest/892/problem/D
 
+Veoma dobra ideja, gledati kako se vrednosti redom menjaju i updejtovati ih po tome    \
+https://codeforces.com/group/EO1Eu2qKmY/contest/370830/problem/B
