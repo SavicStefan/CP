@@ -164,3 +164,5 @@ https://atcoder.jp/contests/abc137/tasks/abc137_e
 52. Distanca izmedju dva prosta broja je mala     \
 https://codeforces.com/contest/584/problem/D
 
+53. Primetiti kako izlgeda optimalni rezultat       \
+https://codeforces.com/group/EO1Eu2qKmY/contest/370830/problem/C
