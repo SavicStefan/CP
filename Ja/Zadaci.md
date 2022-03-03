@@ -56,3 +56,6 @@ https://codeforces.com/group/EO1Eu2qKmY/contest/370830/problem/B
 
 Prevedi u matematicki recnik pa ce dobiti neki uslovi      \
 https://www.codechef.com/problems/MAGICMOD
+
+Mnogo lud zadatak        \
+https://www.codechef.com/LTIME105A/problems/COOKPERM
