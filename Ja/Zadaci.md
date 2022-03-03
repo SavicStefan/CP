@@ -53,3 +53,6 @@ https://codeforces.com/contest/892/problem/D
 
 Veoma dobra ideja, gledati kako se vrednosti redom menjaju i updejtovati ih po tome    \
 https://codeforces.com/group/EO1Eu2qKmY/contest/370830/problem/B
+
+Prevedi u matematicki recnik pa ce dobiti neki uslovi      \
+https://www.codechef.com/problems/MAGICMOD
