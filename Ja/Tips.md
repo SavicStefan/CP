@@ -166,3 +166,6 @@ https://codeforces.com/contest/584/problem/D
 
 53. Primetiti kako izlgeda optimalni rezultat       \
 https://codeforces.com/group/EO1Eu2qKmY/contest/370830/problem/C
+
+54. Kad imam dva set-a i hocu da izracunam gcd svaka dva para. Najveci broj razlicith gcd-ova je sqrt(N) tako da samo cuvam count i radim sa tip po porovima    \
+https://www.codechef.com/LTIME105A/problems/COOKPERM
