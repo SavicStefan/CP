@@ -169,3 +169,6 @@ https://codeforces.com/group/EO1Eu2qKmY/contest/370830/problem/C
 
 54. Kad imam dva set-a i hocu da izracunam gcd svaka dva para. Najveci broj razlicith gcd-ova je sqrt(N) tako da samo cuvam count i radim sa tip po porovima    \
 https://www.codechef.com/LTIME105A/problems/COOKPERM
+
+55. Ima dosta zadataka sa Dirihleovim princip sa bitovima         \
+https://www.codechef.com/problems/NANDXOR
