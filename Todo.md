@@ -1,34 +1,6 @@
-# Training
-  1. Upsolve all round betweeen 722 - 770 and make sure you understand all of the problems
-  2. Solve all problems from ABC 
-# Read
-  1. Dirihleov princip - https://atcoder.jp/contests/abc200/tasks/abc200_d
-  2. Game theory
-# If you are bored
-  1. https://codeforces.com/contest/1547
-  2. https://codeforces.com/contest/121/problem/E Upsolve but with segment tree
-
-# Contests
-  1. https://codeforces.com/contest/990
-  2. https://codeforces.com/contest/888
-  3. https://codeforces.com/contest/962
-  4. https://codeforces.com/contest/985
-  5. https://codeforces.com/contest/920
-# EDU
-  1. https://codeforces.com/contest/678
-  2. https://codeforces.com/contest/652
-  3. https://codeforces.com/contest/1009
-  4. https://codeforces.com/contest/985
-  5. https://codeforces.com/contest/920
-  6. https://codeforces.com/contest/691
-  7. https://codeforces.com/contest/620
-  8. https://codeforces.com/contest/609
-  9. https://codeforces.com/contest/616
-  10. https://codeforces.com/contest/612
-  11. https://codeforces.com/contest/660
-  12. https://codeforces.com/contest/628
-  13. https://codeforces.com/contest/632
-  
+# Training (7.03 - 13.03)
+  1. 763 - 774 Upsolve
+  2. 20 ABC blue problems
 
 # Problems
   1. https://codeforces.com/contest/954/problem/G
