@@ -172,3 +172,9 @@ https://www.codechef.com/LTIME105A/problems/COOKPERM
 
 55. Ima dosta zadataka sa Dirihleovim princip sa bitovima         \
 https://www.codechef.com/problems/NANDXOR
+
+56. Mozemo i segmente da drzimo kod upita i da ih brisem veoma dobar trik, veoma dobar dokaz za slozenost   \ 
+https://codeforces.com/contest/1638/problem/E
+
+57. Dodavanje segmenata razlicite boje kveriji (gledati samo see), moze se koristiti i kod online unije segmenata   \
+https://codeforces.com/contest/1638/submission/149005412
