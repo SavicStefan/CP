@@ -4,6 +4,8 @@
   3. SIO day 1 upsolve
   4. https://codeforces.com/problemset/problem/1632/E2 read editorial
 
+
+
 # Problems
   1. https://codeforces.com/contest/954/problem/G
   2. https://codeforces.com/contest/1506/problem/G
@@ -15,3 +17,5 @@
   8. Pogledati nlogn resenje https://codeforces.com/problemset/problem/14/
 # Other
   1. https://codeforces.com/blog/entry/99270?#comment-880626
+  2. https://codeforces.com/blog/entry/72690 (MO with updates)
+  3. https://codeforces.com/contest/940/problem/F
