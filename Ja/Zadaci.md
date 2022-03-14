@@ -59,3 +59,6 @@ https://www.codechef.com/problems/MAGICMOD
 
 Mnogo lud zadatak        \
 https://www.codechef.com/LTIME105A/problems/COOKPERM
+
+Mo on tree    \
+https://codeforces.com/contest/375/problem/D
