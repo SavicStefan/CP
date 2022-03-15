@@ -178,3 +178,6 @@ https://codeforces.com/contest/1638/problem/E
 
 57. Dodavanje segmenata razlicite boje kveriji (gledati samo see), moze se koristiti i kod online unije segmenata   \
 https://codeforces.com/contest/1638/submission/149005412
+
+58. Zadatke sa bojenjem uvek gledati otpozadi     \
+https://codeforces.com/contest/1638/problem/D
