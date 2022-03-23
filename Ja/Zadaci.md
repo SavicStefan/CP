@@ -62,3 +62,6 @@ https://www.codechef.com/LTIME105A/problems/COOKPERM
 
 Mo on tree    \
 https://codeforces.com/contest/375/problem/D
+
+Inclusion-Exclusion    \
+http://usaco.org/index.php?page=viewproblem2&cpid=862
