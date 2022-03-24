@@ -184,3 +184,6 @@ https://codeforces.com/contest/1638/problem/D
 
 59. Gledati nekad da li moze komplement resenju da izracuna lakse pa oduzeti od ukupno nacina   \
 http://usaco.org/index.php?page=viewproblem2&cpid=791
+
+60. Za bojenje UVEK mora da bude bar jedan segment K duzine koji je obojen, ostalo moze kako hoce    \
+http://usaco.org/index.php?page=viewproblem2&cpid=791
