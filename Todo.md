@@ -1,9 +1,6 @@
-# Training (7.03 - 13.03)
-  1. 763 - 774 Upsolve
-  2. 20 ABC blue problems
-  3. SIO day 1 upsolve
-  4. https://codeforces.com/problemset/problem/1632/E2 read editorial
-
+# CodeChef
+  1. https://www.codechef.com/START31B?order=desc&sortBy=successful_submissions
+  2. https://www.codechef.com/LTIME106B?order=desc&sortBy=successful_submissions
 
 
 # Problems
