@@ -68,3 +68,6 @@ http://usaco.org/index.php?page=viewproblem2&cpid=862
 
 Trebalo je da se uvidi da se resenje moze dobiti i sortiranjem pa koriscenjem tog nekog subarray    \
 https://oj.uz/problem/view/IOI16_molecules
+
+Treba zadnji subtask da se kleda odvojeno     \
+https://oj.uz/problem/view/APIO15_sculpture
