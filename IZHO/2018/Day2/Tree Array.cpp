@@ -126,13 +126,13 @@ int main() {
             cin >> l >> r >> v;
 
             auto a = s[v].ub(l); 
-                if(a != s[v].end() && *a <= r){
+            if(a != s[v].end() && *a <= r){
                 cout << *a - 1 << " " << *a << '\n';
                 continue;
             }
 
             auto b = gde[v].lb(l);
-                if(b != gde[v].end() && *b <= r){
+            if(b != gde[v].end() && *b <= r){
                 cout << *b << " " << *b << '\n';
                 continue;
             } 
