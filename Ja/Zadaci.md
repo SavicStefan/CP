@@ -69,5 +69,9 @@ http://usaco.org/index.php?page=viewproblem2&cpid=862
 Trebalo je da se uvidi da se resenje moze dobiti i sortiranjem pa koriscenjem tog nekog subarray    \
 https://oj.uz/problem/view/IOI16_molecules
 
-Treba zadnji subtask da se kleda odvojeno     \
+Treba zadnji subtask da se gleda odvojeno     \
 https://oj.uz/problem/view/APIO15_sculpture
+
+Treba videti kako smanjiti broj edge-ova koje pravim i koja je slozenost kroz slucajeve moze vec od sqrt(N)    \
+https://oj.uz/problem/view/APIO15_skyscraper
+
