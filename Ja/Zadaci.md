@@ -75,3 +75,6 @@ https://oj.uz/problem/view/APIO15_sculpture
 Treba videti kako smanjiti broj edge-ova koje pravim i koja je slozenost kroz slucajeve moze vec od sqrt(N)    \
 https://oj.uz/problem/view/APIO15_skyscraper
 
+Lep zadatak za primetiti kako brze i bolje uraditi sa razlikom    \
+https://oj.uz/problem/view/JOI17_foehn_phenomena
+
