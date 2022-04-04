@@ -78,3 +78,6 @@ https://oj.uz/problem/view/APIO15_skyscraper
 Primeti se da je lakse ako imamo razliku svaku dva susedna jer onda ne moram da updejtujemo ceo interval nego samo granice    \
 https://oj.uz/problem/view/JOI17_foehn_phenomena
 
+Posmatram zadatak kao graph i to dodavanje gledam kao bipartitivni od x i y koridate i samo pomnozim    \
+https://atcoder.jp/contests/abc131/tasks/abc131_f
+
