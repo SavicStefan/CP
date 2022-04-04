@@ -83,4 +83,8 @@ https://atcoder.jp/contests/abc131/tasks/abc131_f
 
 Slican kao onaj sa Usaca sa inclusion-exlusion, samo gledam svaki row koliko dodaje pa gledam je l ima da se ponavljaju i tako dalje sa inclusion-exlusion       
      https://atcoder.jp/contests/abc246/tasks/abc246_f
+     
+Uoci se da ako neki edge ne pripada bilo kom shortst path-u mozemo da ga brisemo, to znaci da je nama dovoljno da pogledamo samo susedni da li ima neki put 
+manji od njega ili da li postoji duzi put sa istom distancom                         
+https://atcoder.jp/contests/abc243/tasks/abc243_e
 
