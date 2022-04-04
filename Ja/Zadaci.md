@@ -52,7 +52,7 @@ Veoma lep constranctiv zadatak, malo cudan za constrainins al ok     \
 https://codeforces.com/contest/892/problem/D
 
 Veoma dobra ideja, gledati kako se vrednosti redom menjaju i updejtovati ih po tome    \
-https://codeforces.com/group/EO1Eu2qKmY/contest/370830/problem/B
+https://codeforces.com/group/EO1Eu2qKmY/contest/370830/problem/B 
 
 Prevedi u matematicki recnik pa ce dobiti neki uslovi      \
 https://www.codechef.com/problems/MAGICMOD
@@ -80,4 +80,7 @@ https://oj.uz/problem/view/JOI17_foehn_phenomena
 
 Posmatram zadatak kao graph i to dodavanje gledam kao bipartitivni od x i y koridate i samo pomnozim    \
 https://atcoder.jp/contests/abc131/tasks/abc131_f
+
+Slican kao onaj sa Usaca sa inclusion-exlusion, samo gledam svaki row koliko dodaje pa gledam je l ima da se ponavljaju i tako dalje sa inclusion-exlusion       
+     https://atcoder.jp/contests/abc246/tasks/abc246_f
 
