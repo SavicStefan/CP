@@ -39,7 +39,7 @@ https://atcoder.jp/contests/abc154/tasks/abc154_e
 Extended gcd proveriti jos jednom sad sam preumoran (Math)    \
 https://atcoder.jp/contests/abc186/tasks/abc186_e
 
-Jako lep i dobar zadatak     \
+Primetise koji svi kandidati mogu biti i onda samo radimo greedy da dobijem minimalno operacija ako je taj kandidat gcd      \
 https://atcoder.jp/contests/abc136/tasks/abc136_e
 
 Negative weighted cycle    \
