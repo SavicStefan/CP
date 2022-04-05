@@ -88,3 +88,6 @@ Uoci se da ako neki edge ne pripada bilo kom shortst path-u mozemo da ga brisemo
 manji od njega ili da li postoji duzi put sa istom distancom                         
 https://atcoder.jp/contests/abc243/tasks/abc243_e
 
+Fora sa average i medainom, kao i malo cudnija fora sa binarom kad koristim double i bez mog ans      \ 
+https://atcoder.jp/contests/abc236/tasks/abc236_e
+
