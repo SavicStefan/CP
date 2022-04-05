@@ -91,3 +91,8 @@ https://atcoder.jp/contests/abc243/tasks/abc243_e
 Fora sa average i medainom, kao i malo cudnija fora sa binarom kad koristim double i bez mog ans      \ 
 https://atcoder.jp/contests/abc236/tasks/abc236_e
 
+Sortiarati i raditi greedy od najmanje do najvece, najlepsi zadatak          \
+https://atcoder.jp/contests/abc236/editorial/3306         \
+https://atcoder.jp/contests/abc236/tasks/abc236_f
+
+
