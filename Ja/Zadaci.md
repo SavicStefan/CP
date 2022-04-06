@@ -95,4 +95,8 @@ Sortiarati i raditi greedy od najmanje do najvece, najlepsi zadatak          \
 https://atcoder.jp/contests/abc236/editorial/3306         \
 https://atcoder.jp/contests/abc236/tasks/abc236_f
 
+Samo se gleda ako i-ti cvor obojimo jednom od 2 boje, a boju cvora 0 fiksiramo. I posto za svaki cvor imamo 3 edga samo gledamo da imaju razlicite boje i 
+samo treba voditi racuna o 1 i n              \
+https://atcoder.jp/contests/abc229/tasks/abc229_f
+
 
