@@ -102,3 +102,6 @@ https://atcoder.jp/contests/abc229/tasks/abc229_f
 Moze da gledamo prosirei graph gde postoji edge izmedju u -> u' sa tezionom D[u] i onda za neki cvor ce najveca distanca biti ili pocetak ili kraj diametra     \
 https://atcoder.jp/contests/abc222/tasks/abc222_f
 
+Treba primeti da koliko svaka RAZLICITA subsequence dodaje resenju i samim tip se lako dolazi do resenje ako fiksiranmo granice    \ 
+https://atcoder.jp/contests/abc159/tasks/abc159_f
+
