@@ -190,3 +190,6 @@ http://usaco.org/index.php?page=viewproblem2&cpid=791
 
 61. Za svaki nivo segmentnog kada radimo lazy mozemo biti na najvise 4 cvora     \
 https://codeforces.com/blog/entry/8864?#comment-145866
+
+62. Maximalna duzina u graph-u izmedju dva cvora je N - 1    \
+https://atcoder.jp/contests/abc218/tasks/abc218_f
