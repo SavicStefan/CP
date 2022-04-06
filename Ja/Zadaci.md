@@ -99,4 +99,6 @@ Samo se gleda ako i-ti cvor obojimo jednom od 2 boje, a boju cvora 0 fiksiramo. 
 samo treba voditi racuna o 1 i n              \
 https://atcoder.jp/contests/abc229/tasks/abc229_f
 
+Moze da gledamo prosirei graph gde postoji edge izmedju u -> u' sa tezionom D[u] i onda za neki cvor ce najveca distanca biti ili pocetak ili kraj diametra     \
+https://atcoder.jp/contests/abc222/tasks/abc222_f
 
