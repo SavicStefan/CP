@@ -105,3 +105,6 @@ https://atcoder.jp/contests/abc222/tasks/abc222_f
 Treba primeti da koliko svaka RAZLICITA subsequence dodaje resenju i samim tip se lako dolazi do resenje ako fiksiranmo granice    \ 
 https://atcoder.jp/contests/abc159/tasks/abc159_f
 
+Primetimo koliko dobrinosi neka maska-a, ali ne cuvamo broj neko resenje odmah            \
+https://atcoder.jp/contests/abc169/tasks/abc169_f
+
