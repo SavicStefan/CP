@@ -108,3 +108,6 @@ https://atcoder.jp/contests/abc159/tasks/abc159_f
 Primetimo koliko dobrinosi neka maska-a, ali ne cuvamo broj neko resenje odmah            \
 https://atcoder.jp/contests/abc169/tasks/abc169_f
 
+3^n nece proci, ali posto znam da prvom cvoru stavljam jednu boju i ondo samo 2^(n - 1) nacina ostaje za sledece sto prolazi        \
+https://atcoder.jp/contests/abc199/tasks/abc199_d
+
