@@ -114,3 +114,10 @@ https://atcoder.jp/contests/abc199/tasks/abc199_d
 Samo gledam ako dodam poslednji na kraj u skup da li i dalje vaze uslovi (dp + bitmask)     \
 https://atcoder.jp/contests/abc199/tasks/abc199_e
 
+Samo prosirujem palindrom koji na pocetku ili bude nista (samo cvor) ili 1 karakter (samo ivica) i onda dodajem levo i desno isti karatker    \
+https://atcoder.jp/contests/abc197/tasks/abc197_f
+
+Treba videti da nam je najbolje sto pre da stignem u svaki cvor je l mozemo u njemu da budemo koliko hocemo, i onda samo naci min funkcije preko 
+izvoda i gledamo malo levo i desno cisto zbog int-a        \
+https://atcoder.jp/contests/abc204/tasks/abc204_e
+
