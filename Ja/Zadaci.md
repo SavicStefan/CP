@@ -111,3 +111,6 @@ https://atcoder.jp/contests/abc169/tasks/abc169_f
 3^n nece proci, ali posto znam da prvom cvoru stavljam jednu boju i ondo samo 2^(n - 1) nacina ostaje za sledece sto prolazi        \
 https://atcoder.jp/contests/abc199/tasks/abc199_d
 
+Samo gledam ako dodam poslednji na kraj u skup da li i dalje vaze uslovi (dp + bitmask)     \
+https://atcoder.jp/contests/abc199/tasks/abc199_e
+
