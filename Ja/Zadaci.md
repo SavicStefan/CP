@@ -137,3 +137,5 @@ Treba naci koliko ima nizova P tako da nema vazi P[i] != i, to se radi sa PIE, n
 A[0] - A[1] + A[2] - A[3] + ... . Bilo mi je cudno da ako imam A[1] sto ne mogu da samo da oduzmem od ukupnog, ali ja nemam tacnu formulu za A[1], posto je A[j] = bin(N, j) * bin(M - j, N - j) * (N - j)!, to (N - j)! tu se moze desiti svasta i mogu se ponavljati zbog toga moram da radim PIE     \
 https://atcoder.jp/contests/abc172/tasks/abc172_e
 
+Primetimo da ako idemo da najmanjem dodamo, a najvecem oduzmemo desice se slucaj 1, 1, 0 gde treba da gledamo i sledeci par pa na osnovu toga da dodajemo      \
+https://atcoder.jp/contests/abc166/tasks/abc166_f
