@@ -133,3 +133,7 @@ Samo treba uvideti da ako ako fiksiramo broj elemenata K, resenje je ako ima sum
 dato    \
 https://atcoder.jp/contests/abc192/tasks/abc192_f
 
+Treba naci koliko ima nizova P tako da nema vazi P[i] != i, to se radi sa PIE, neka A[j] bude broj nizova tako da ima barem j pozicija gde je P[j] = j,
+A[0] - A[1] + A[2] - A[3] + ... . Bilo mi je cudno da ako imam A[1] sto ne mogu da samo da oduzmem od ukupnog, ali ja nemam tacnu formulu za A[1], posto je A[j] = bin(N, j) * bin(M - j, N - j) * (N - j)!, to (N - j)! tu se moze desiti svasta i mogu se ponavljati zbog toga moram da radim PIE     \
+https://atcoder.jp/contests/abc172/tasks/abc172_e
+
