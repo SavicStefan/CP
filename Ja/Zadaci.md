@@ -121,3 +121,7 @@ Treba videti da nam je najbolje sto pre da stignem u svaki cvor je l mozemo u nj
 izvoda i gledamo malo levo i desno cisto zbog int-a        \
 https://atcoder.jp/contests/abc204/tasks/abc204_e
 
+Rapise se i ide se na to koliko puta koristimo operaciju puta 2 (recimo C puta), i onda treba minimizirati |k1| + |k2| + |k3| + .... + |kc|, gde je to
+A = 2^C * k1 + 2^(C - 1) * k2 + .... + kC, i to radimo znaci svaki ili oduzmemo ili dodamo ako ima taj bit i onda gledamo minimalno (vidi se u kodu)  \
+https://atcoder.jp/contests/abc188/tasks/abc188_f
+
