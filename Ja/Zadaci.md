@@ -129,3 +129,7 @@ Kad imamo dva sortirana niza A (rastuce), B (opadajuce) i vazi |A| = |B|, pozici
 bila glavna observacija za zadatak      \
 https://atcoder.jp/contests/abc178/tasks/abc178_f
 
+Samo treba uvideti da ako ako fiksiramo broj elemenata K, resenje je ako ima suma neka da je X % K = Suma % K, i samo treba da nadjemo max Suma da vazi 
+dato    \
+https://atcoder.jp/contests/abc192/tasks/abc192_f
+
