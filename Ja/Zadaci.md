@@ -125,3 +125,7 @@ Rapise se i ide se na to koliko puta koristimo operaciju puta 2 (recimo C puta),
 A = 2^C * k1 + 2^(C - 1) * k2 + .... + kC, i to radimo znaci svaki ili oduzmemo ili dodamo ako ima taj bit i onda gledamo minimalno (vidi se u kodu)  \
 https://atcoder.jp/contests/abc188/tasks/abc188_f
 
+Kad imamo dva sortirana niza A (rastuce), B (opadajuce) i vazi |A| = |B|, pozicije gde su A[i] = B[i] formiranju segmente (nije tesko dokazati), to je 
+bila glavna observacija za zadatak      \
+https://atcoder.jp/contests/abc178/tasks/abc178_f
+
