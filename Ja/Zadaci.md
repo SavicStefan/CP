@@ -139,3 +139,6 @@ https://atcoder.jp/contests/abc172/tasks/abc172_e
 
 Primetimo da ako idemo da najmanjem dodamo, a najvecem oduzmemo desice se slucaj 1, 1, 0 gde treba da gledamo i sledeci par pa na osnovu toga da dodajemo      \
 https://atcoder.jp/contests/abc166/tasks/abc166_f
+
+Primetimo da svaki string moze biti ((((((, ))))))) , ))))(((( ili prazan kada sklonimo sve dobre parove zagrada. Treba gledati kao sta nemoze pokvariti resenje i tako praviti string, to znaci da tamo gde je broj '(' veci od ')', idem po rastuce po broju ')', a inace idem rastuce po broju '(' od pozadi. Nekako je najprirodnije da ovako pravimo resenje         \
+https://atcoder.jp/contests/abc167/tasks/abc167_f
