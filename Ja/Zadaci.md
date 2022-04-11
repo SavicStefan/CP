@@ -146,3 +146,7 @@ https://atcoder.jp/contests/abc167/tasks/abc167_f
 Opet PIE, msm po constrains se vidi da retko sta moze, treba da okrenemo zadatke 2^(n - 1) - Broj_losih_bojenja(L), to L se izracunava kao i zadatak NEQ, 
 neka P[i] bude broj nacina da ne vazi bar i uslova      \
 https://atcoder.jp/contests/abc152/tasks/abc152_f
+
+Znaci ovde se koristi prefix sum i vazi f(x,y) = f(x - 1,0) + f(x - 1,1) + ... f(x - 1, y) kao i f(x, y) = bin(x + y, y), i sa tip treba da izracunamo 
+Sum(i, 0, n) Sum(j, 0, m) bin(i + j, j) => Sum(i, 0, n) bin(i + m + 1, m) preko https://en.wikipedia.org/wiki/Hockey-stick_identity        \
+https://atcoder.jp/contests/abc154/tasks/abc154_f
