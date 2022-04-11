@@ -142,3 +142,7 @@ https://atcoder.jp/contests/abc166/tasks/abc166_f
 
 Primetimo da svaki string moze biti ((((((, ))))))) , ))))(((( ili prazan kada sklonimo sve dobre parove zagrada. Treba gledati kao sta nemoze pokvariti resenje i tako praviti string, to znaci da tamo gde je broj '(' veci od ')', idem po rastuce po broju ')', a inace idem rastuce po broju '(' od pozadi. Nekako je najprirodnije da ovako pravimo resenje         \
 https://atcoder.jp/contests/abc167/tasks/abc167_f
+
+Opet PIE, msm po constrains se vidi da retko sta moze, treba da okrenemo zadatke 2^(n - 1) - Broj_losih_bojenja(L), to L se izracunava kao i zadatak NEQ, 
+neka P[i] bude broj nacina da ne vazi bar i uslova      \
+https://atcoder.jp/contests/abc152/tasks/abc152_f
