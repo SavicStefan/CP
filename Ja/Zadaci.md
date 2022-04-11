@@ -150,3 +150,6 @@ https://atcoder.jp/contests/abc152/tasks/abc152_f
 Znaci ovde se koristi prefix sum i vazi f(x,y) = f(x - 1,0) + f(x - 1,1) + ... f(x - 1, y) kao i f(x, y) = bin(x + y, y), i sa tip treba da izracunamo 
 Sum(i, 0, n) Sum(j, 0, m) bin(i + j, j) => Sum(i, 0, n) bin(i + m + 1, m) preko https://en.wikipedia.org/wiki/Hockey-stick_identity        \
 https://atcoder.jp/contests/abc154/tasks/abc154_f
+
+Isti je kao onaj sa 2019, samo sto ne radi kad je P = 2, ili P = 5, odnosno ne radi za one brojeve koji zavise od poslendnje cifre     \
+https://atcoder.jp/contests/abc158/tasks/abc158_e
