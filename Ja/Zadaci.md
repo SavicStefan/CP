@@ -153,3 +153,6 @@ https://atcoder.jp/contests/abc154/tasks/abc154_f
 
 Isti je kao onaj sa 2019, samo sto ne radi kad je P = 2, ili P = 5, odnosno ne radi za one brojeve koji zavise od poslendnje cifre     \
 https://atcoder.jp/contests/abc158/tasks/abc158_e
+
+Znaci kad je resenje malo cak i kad nam se cini da brute force ne bi prosao, moze cak i proci posto malo casova valja      \
+https://atcoder.jp/contests/abc211/tasks/abc211_e
