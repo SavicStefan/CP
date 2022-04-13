@@ -159,3 +159,6 @@ https://atcoder.jp/contests/abc211/tasks/abc211_e
 
 Samo se gleda ako je svako povecanje >= X, koliko ih ima i onda samo nadjemo resenje. Malo smara kad je daje manje od M onda samo gledam ans - 1, i oduzmes ans - 1 onoliko puta koliko je tu otislo preko M    \
 https://atcoder.jp/contests/abc149/tasks/abc149_e
+
+Vidimo da ce nam finalni string biti duzine N = |S| + K, postoji 26^N stringova i nama treba oni koji sadrze S kao subsequece. Lakse je da izbrojimo koliko ima onih koji ne sadrze S kao subsequnce. Ako nemamo S[1] u stringu: 25^N nacina, ako imamo S[1] a nemamo S[2]: N * 25^(N - 1) ... itd znaci uzmemo i fiksiramo prefix i samo gledamo da nemam sledeci i onda mozemo da stavimo sta god hocemo      \
+https://atcoder.jp/contests/abc171/tasks/abc171_f
