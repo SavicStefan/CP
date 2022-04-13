@@ -156,3 +156,6 @@ https://atcoder.jp/contests/abc158/tasks/abc158_e
 
 Znaci kad je resenje malo cak i kad nam se cini da brute force ne bi prosao, moze cak i proci posto malo casova valja      \
 https://atcoder.jp/contests/abc211/tasks/abc211_e
+
+Samo se gleda ako je svako povecanje >= X, koliko ih ima i onda samo nadjemo resenje. Malo smara kad je daje manje od M onda samo gledam ans - 1, i oduzmes ans - 1 onoliko puta koliko je tu otislo preko M    \
+https://atcoder.jp/contests/abc149/tasks/abc149_e
