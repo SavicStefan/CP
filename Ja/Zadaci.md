@@ -162,3 +162,8 @@ https://atcoder.jp/contests/abc149/tasks/abc149_e
 
 Vidimo da ce nam finalni string biti duzine N = |S| + K, postoji 26^N stringova i nama treba oni koji sadrze S kao subsequece. Lakse je da izbrojimo koliko ima onih koji ne sadrze S kao subsequnce. Ako nemamo S[1] u stringu: 25^N nacina, ako imamo S[1] a nemamo S[2]: N * 25^(N - 1) ... itd znaci uzmemo i fiksiramo prefix i samo gledamo da nemam sledeci i onda mozemo da stavimo sta god hocemo      \
 https://atcoder.jp/contests/abc171/tasks/abc171_f
+
+Prvo sam mislio da moze da se resi tako da dp[i][j][l] bude broj nacina u prvih i ako je duzina sekvence j i ako je najmanji koriscen l, ali ispostavi se da malo teze idu tranzicije. Posto ako mi uzmemo i-ti ja moram da imam i sve manje od Q[i], i samim tip mozemo da gledamo dp[i][j][l] - broj nacina u prvih i ako je duzina sekvence j i ako je najmanji element koji NISMO koristili l. I sad kad smo na i-tom mozemo da ga ne koristimo ili koristimo.
+Kad ga koristimo gledamo broj nacina da nismo koristili neki koji je veci od X, jer ako je manji onda moramo da ga koristimo. I ako necemo da koristimo X,
+onda samo gledamo koji nam je najmanji koji nismo koristili      \
+https://atcoder.jp/contests/abc238/tasks/abc238_f
