@@ -170,3 +170,6 @@ https://atcoder.jp/contests/abc238/tasks/abc238_f
 
 Neka g(i,j) bude min(lcp[i + 1], ... ,lcp[j]), sad za svako i treba da izracunamo g(1,i) + g(2, i) + .. g(i - 1,i) + g(i,i + 1) + .... g(i, n). Neka B[i] = g(1, i) + ... g(i - 1,i), primetimo vezu imedju B[i] i B[i + 1], da treba samo svaku proslo da uproedim sa lcp[i + 1], i cuvamo {koji_je,koliko_se_pojavljuje} posto ce biti rastuce uvek u tom setu gde drzimo mozem stack in bude O(n) posto svaki ubacim jednom i izbacim jednom   \
 https://atcoder.jp/contests/abc213/tasks/abc213_f
+
+Prvo sam pomislio da moze dp[i][j] - max u prvih i ako nisam koristio j, pa da onda nekako vezujem sa i-tim i radim nesto. Neke cemo da stavljamo levo neke desno. Pi - kranjnja pozicija i-tog. Za indeske koje stavljam levo vazi Ai * (i - pi), kako nam Ai * i = const. bitno nam je samo da minimizujemo sumu Ai * pi, sto radimo sto najveci stavljamo skroz levo itd. Za indekse koje stavljam desno vazi Ai * (pi - i), opet Ai * i = const. bitno nam je samo da maximinujemo Ai * pi, sto radimo tako sto najveci stavljamo skroz desno itd. I sad gledamo DP[i][j] - max ako i stavljam levo i j desno    \
+https://atcoder.jp/contests/abc163/tasks/abc163_e
