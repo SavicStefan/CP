@@ -167,3 +167,6 @@ Prvo sam mislio da moze da se resi tako da dp[i][j][l] bude broj nacina u prvih 
 Kad ga koristimo gledamo broj nacina da nismo koristili neki koji je veci od X, jer ako je manji onda moramo da ga koristimo. I ako necemo da koristimo X,
 onda samo gledamo koji nam je najmanji koji nismo koristili      \
 https://atcoder.jp/contests/abc238/tasks/abc238_f
+
+Neka g(i,j) bude min(lcp[i + 1], ... ,lcp[j]), sad za svako i treba da izracunamo g(1,i) + g(2, i) + .. g(i - 1,i) + g(i,i + 1) + .... g(i, n). Neka B[i] = g(1, i) + ... g(i - 1,i), primetimo vezu imedju B[i] i B[i + 1], da treba samo svaku proslo da uproedim sa lcp[i + 1], i cuvamo {koji_je,koliko_se_pojavljuje} posto ce biti rastuce uvek u tom setu gde drzimo mozem stack in bude O(n) posto svaki ubacim jednom i izbacim jednom   \
+https://atcoder.jp/contests/abc213/tasks/abc213_f
