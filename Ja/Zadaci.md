@@ -176,3 +176,7 @@ https://atcoder.jp/contests/abc163/tasks/abc163_e
 
 Treba da nadjemo broj permutacija tako da je lcm cycle-ova jednak j. To radimo preko dp[i][j] - broj permutacija u prvih i tako da je lcm = j. Sad samo moramo za izbegnemo ponavljanje sto je malo teze i nije mi jasno. Treba da se fiksira najmanji koji nismo koristili i onda samo da pogledam na ostatku koliko njih mogu da izaberem     \
 https://atcoder.jp/contests/abc226/tasks/abc226_f
+
+Posto nam nisu bitni ostali elementi osim X, bitno nam je samo koji su veci od X i koji su manji pa mozemo niz da prbacimu 0 - niz[i] < X, 1 - niz[i] = X,
+2 - niz[i] > X, i onda samo sort ako onaj zadatak sa stringovima na CF     \
+https://atcoder.jp/contests/abc237/tasks/abc237_g
