@@ -173,3 +173,6 @@ https://atcoder.jp/contests/abc213/tasks/abc213_f
 
 Prvo sam pomislio da moze dp[i][j] - max u prvih i ako nisam koristio j, pa da onda nekako vezujem sa i-tim i radim nesto. Neke cemo da stavljamo levo neke desno. Pi - kranjnja pozicija i-tog. Za indeske koje stavljam levo vazi Ai * (i - pi), kako nam Ai * i = const. bitno nam je samo da minimizujemo sumu Ai * pi, sto radimo sto najveci stavljamo skroz levo itd. Za indekse koje stavljam desno vazi Ai * (pi - i), opet Ai * i = const. bitno nam je samo da maximinujemo Ai * pi, sto radimo tako sto najveci stavljamo skroz desno itd. I sad gledamo DP[i][j] - max ako i stavljam levo i j desno    \
 https://atcoder.jp/contests/abc163/tasks/abc163_e
+
+Treba da nadjemo broj permutacija tako da je lcm cycle-ova jednak j. To radimo preko dp[i][j] - broj permutacija u prvih i tako da je lcm = j. Sad samo moramo za izbegnemo ponavljanje sto je malo teze i nije mi jasno. Treba da se fiksira najmanji koji nismo koristili i onda samo da pogledam na ostatku koliko njih mogu da izaberem     \
+https://atcoder.jp/contests/abc226/tasks/abc226_f
