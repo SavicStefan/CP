@@ -183,3 +183,7 @@ https://atcoder.jp/contests/abc237/tasks/abc237_g
 
 Ja kazem najmanji mi je X, to znaci da sve vece od X moram uzeti, tako da cu gledati da prodjem kroz tacno K tih polja i trazim najmanju sumu    \
 https://atcoder.jp/contests/abc227/tasks/abc227_f
+
+Broj delioca mozemo preko formule, a za to nam trebaju broj svakog prostog faktora. bin(N, K) = N * (N - 1) * ... * (N - K + 1) / K * (K - 1) ... * 1. 
+Za svaki prosto faktor dodam koliko se puta nalazi u brojiocu i oduzmemo koliko se puta nalazi imeniocu. Za imenioc je lako posto je K <= 10^6. Za brojilac svaki prosto faktor ce biti manji od korena tog broja sem onaj deo sto ostane, kako N <= 10^12 sqrt(N) <= 10^6 mozemo isto kao i za imenioc samo moramo da dodamo onaj prost broj sto ostane       \
+https://atcoder.jp/contests/abc227/tasks/abc227_g
