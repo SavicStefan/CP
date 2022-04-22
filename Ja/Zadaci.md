@@ -187,3 +187,6 @@ https://atcoder.jp/contests/abc227/tasks/abc227_f
 Broj delioca mozemo preko formule, a za to nam trebaju broj svakog prostog faktora. bin(N, K) = N * (N - 1) * ... * (N - K + 1) / K * (K - 1) ... * 1. 
 Za svaki prosto faktor dodam koliko se puta nalazi u brojiocu i oduzmemo koliko se puta nalazi imeniocu. Za imenioc je lako posto je K <= 10^6. Za brojilac svaki prosto faktor ce biti manji od korena tog broja sem onaj deo sto ostane, kako N <= 10^12 sqrt(N) <= 10^6 mozemo isto kao i za imenioc samo moramo da dodamo onaj prost broj sto ostane       \
 https://atcoder.jp/contests/abc227/tasks/abc227_g
+
+Ja sam ovaj zadatak uspeo da resim sa phi nisam nisugran sto to radi, ova njihova ideja sa primitnivnim root-om je jako i dobro i moze se cesto korisiti. Definicija primitvnog root-a kao i resenje zadatka https://atcoder.jp/contests/abc212/editorial/2373.       \
+https://atcoder.jp/contests/abc212/tasks/abc212_g
