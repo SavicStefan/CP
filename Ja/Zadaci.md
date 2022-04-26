@@ -190,3 +190,10 @@ https://atcoder.jp/contests/abc227/tasks/abc227_g
 
 Ja sam ovaj zadatak uspeo da resim sa phi nisam nisugran sto to radi, ova njihova ideja sa primitnivnim root-om je jako i dobro i moze se cesto korisiti. Definicija primitvnog root-a kao i resenje zadatka https://atcoder.jp/contests/abc212/editorial/2373.       \
 https://atcoder.jp/contests/abc212/tasks/abc212_g
+
+Ideja je veoma cudna ali je Geothermal objasnio motivaciju kod ovakih problma :
+     My motivation: the difficult part of this problem is clearly performing range Fibonacci updates, so our first order of business is to simplify          the queries. One common way of simplifying range queries is to transform the array in order to turn range queries into point queries (consider,        for example, the standard trick of storing the difference array instead of the original array in order to handle range updates/point queries            using a BIT or standard segtree). When we perform standard range additions, the change in xn−xn−1 is zero for points in the middle of the array;        in this case, we see that for points in the middle of the update, the change in xn−xn−1−xn−2 is zero. Therefore, after performing the given            transformation, the range updates influence only a few points of the array, which is what we hoped to achieve.     
+     https://codeforces.com/contest/1634/problem/F
+     
+Primetimo da nesto se puno pominje paran broj i samim tip pomislimo na Euler Cycle (odmah se vidi da je u pitanju nekakav graph, odnostno biparitite grpah kad ga konsrutisemo)       \
+https://codeforces.com/contest/1634/problem/E
