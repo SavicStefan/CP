@@ -200,3 +200,6 @@ https://codeforces.com/contest/1634/problem/E
 
 Nisam bas morao da gledam da li se svi manji od X pojavljuju mogao sam da li ima nekog koga nema. I to je onda lako, samo cuvam poslednej pojaljivanje  \
 https://codeforces.com/problemset/problem/1436/E
+
+Bitno nam je kako da proverimo da li je resenje X, odnosno gledamo kada je resenje < X, bitni su nam samo oni vec od X i njih hocemo da izbrisemo, sto znaci da najdesniji >= X mora imati desno od njega barem jednu bombu, drugi sa desna >= X mora imati dve bombe, itd. I onda samo gledamo za svako i ako hocemo da resenje bude < X, razliku  broj vecih >= X desno od i - broj bombi desno od i -> to mozemo lako sa segmentnim.    \
+https://codeforces.com/contest/1326/problem/E
