@@ -197,3 +197,6 @@ Ideja je veoma cudna ali je Geothermal objasnio motivaciju kod ovakih problma :
      
 Primetimo da nesto se puno pominje paran broj i samim tip pomislimo na Euler Cycle (odmah se vidi da je u pitanju nekakav graph, odnostno biparitite grpah kad ga konsrutisemo)       \
 https://codeforces.com/contest/1634/problem/E
+
+Nisam bas morao da gledam da li se svi manji od X pojavljuju mogao sam da li ima nekog koga nema. I to je onda lako, samo cuvam poslednej pojaljivanje  \
+https://codeforces.com/problemset/problem/1436/E
