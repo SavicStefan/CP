@@ -203,3 +203,7 @@ https://codeforces.com/problemset/problem/1436/E
 
 Bitno nam je kako da proverimo da li je resenje X, odnosno gledamo kada je resenje < X, bitni su nam samo oni vec od X i njih hocemo da izbrisemo, sto znaci da najdesniji >= X mora imati desno od njega barem jednu bombu, drugi sa desna >= X mora imati dve bombe, itd. I onda samo gledamo za svako i ako hocemo da resenje bude < X, razliku  broj vecih >= X desno od i - broj bombi desno od i -> to mozemo lako sa segmentnim.    \
 https://codeforces.com/contest/1326/problem/E
+
+Primetimo prvo za fiksirano k da mozemo greedy da izracunamo resenje, tako sto od kraja samo uzimamo segment sve dok broj razlicitih ne predje k (sto je lako uvedeti). Za svako to k mozemo da izracunamo u ans(k) * log(n), ukupna slozenost ce nam biti suma svih k-ova, a ans(k) <= n / k, 
+log(n) * (ans(1) + ans(2) + ... ans(n)) <= log(n) * (n / 1 + n / 2 + ... n / n) = log(n) * n * log(n), sto je veoma brzo. Drugo resenje nam je da radimo D&C. Primetimo da nam resenje opada pa mozemo kao negu D&C Dp optimization. Koliko puta cemo to naivno da izvrsimo? za k od 1...N mi imamo sqrt(N) razlicitih resenja, posto funcija f(x) = [N / x] ima sqrt(4N) + 1 razlicitih resenje i sam tim cemo naivno da izvrsimo za svako razliticito resenje       \
+https://codeforces.com/contest/786/problem/C
