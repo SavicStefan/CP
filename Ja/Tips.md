@@ -193,3 +193,6 @@ https://codeforces.com/blog/entry/8864?#comment-145866
 
 62. Maximalna duzina u graph-u izmedju dva cvora je N - 1    \
 https://atcoder.jp/contests/abc218/tasks/abc218_f
+
+63. Kad radimo walk na segmentnon ako hocemo da nadjemo najvecu poziciju za koju vazi, uveke cemo ispisivati tl - 1, e sad to znaci da moram da gledamo segmentnon na range-u [1, n + 1], kako bi n nekad moglo da bude resenj         \
+https://codeforces.com/problemset/problem/1236/E
