@@ -210,3 +210,6 @@ https://codeforces.com/contest/786/problem/C
 
 Lako se vidi resenje O(nmk), ne moze drugacije, sem contanst optimization. Koristicemo bitset. Primetimo da mozemo da cuvamo n bitset-ova duzine m i sad radimo za svako slovo odvojeno. Za 'N' samo cemo ovo iz desno dodati na levo, 'S' samo cemo ovo iz levo dodati na desno. 'W' i 'E' nisam znao, ali mozemo samo shift posto je to samo pomeranje redo levo i desno. Moramo samo svaki taj novi red da pogledamo da nismo stali na kopno samo uradimo and sa I[i] gde je I[i][j] - 1 ako imam voda i 0 ako je kompno. Resimo zadatak O(nmk * 1/64)       \
 https://oj.uz/problem/view/BOI19_nautilus
+
+Treba primetiti da je dovoljno naci broj dobrih resenja za svaki bit odvojeno. Fiskiramo bit i radimo dp[i] - broj nacina u prvih i ako je poslednja 0 u i, i svi segmenti do sada su dobri. Nas onda samo interesuju segmenti koju celim delom bili pre i (r < i), jer kod njih ova nula nece uticati pa nemozemo da radimo bas sta hocemo. Znaci potrebno je da nadjemo max l za koje je r < i, i u opsegu [max l, i - 1] bude barem jedna 0, tako da je dp[i] = dp[i - 1] + ... + dp[mx[i]], ovim cemo pokriti slucaj sta ako stavimo predhodu nulu u segmentu [r + 1, i - 1], posto je dp[i] definisan da vazi sa sve segmente pre njega vec tako da smo to pokrili.         \
+https://codeforces.com/contest/1327/problem/F
