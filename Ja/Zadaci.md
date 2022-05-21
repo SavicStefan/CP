@@ -216,3 +216,6 @@ https://codeforces.com/contest/1327/problem/F
 
 Vidimo da je nemoguce da swapujem ove dve matrice i pogledam da li mogu nekako da smanjim bitna polja, to ce biti samo one na obimu. Posto mogu da cuvam samo poziciju desnog cvora i poziciju donjeg cvora svakog polja, onda ove unutra se ne menjanju samo ovi na obimu. I onda samo njima moram da menjam desnu i donju poziciju. (E sad ne znam kako da vratim vrednosti na pocetak).       \
 https://codeforces.com/problemset/problem/706/E
+
+Gledamo granu sa najvecom tezinom to znaci da bilo koji put izmedju cvorova "LEVO" i "DESNO" ce sadrzati ovu granu, i onda izbrisemo tu granu i gledamo "LEVU" komponentu i "DESNU" komponetnu itd. Sam tim cemo kontrusati binarno stablo i svakoj toj grani cemo dodati cvor i njega cemo vezivati sa LEVOM-om i DESNO-om komponentom (a covorovi u grapu ce biti leaf-ovi u binarnom stablu). I onda za max tezinu izmedju dva cvora je samo LCA da dva cvora u binarnom stablu. I onda samo klasicno lazu segment sa updateove.      \
+https://codeforces.com/contest/1628/problem/E
