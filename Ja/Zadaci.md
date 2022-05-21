@@ -213,3 +213,6 @@ https://oj.uz/problem/view/BOI19_nautilus
 
 Treba primetiti da je dovoljno naci broj dobrih resenja za svaki bit odvojeno. Fiskiramo bit i radimo dp[i] - broj nacina u prvih i ako je poslednja 0 u i, i svi segmenti do sada su dobri. Nas onda samo interesuju segmenti koju celim delom bili pre i (r < i), jer kod njih ova nula nece uticati pa nemozemo da radimo bas sta hocemo. Znaci potrebno je da nadjemo max l za koje je r < i, i u opsegu [max l, i - 1] bude barem jedna 0, tako da je dp[i] = dp[i - 1] + ... + dp[mx[i]], ovim cemo pokriti slucaj sta ako stavimo predhodu nulu u segmentu [r + 1, i - 1], posto je dp[i] definisan da vazi sa sve segmente pre njega vec tako da smo to pokrili.         \
 https://codeforces.com/contest/1327/problem/F
+
+Vidimo da je nemoguce da swapujem ove dve matrice i pogledam da li mogu nekako da smanjim bitna polja, to ce biti samo one na obimu. Posto mogu da cuvam samo poziciju desnog cvora i poziciju donjeg cvora svakog polja, onda ove unutra se ne menjanju samo ovi na obimu. I onda samo njima moram da menjam desnu i donju poziciju. (E sad ne znam kako da vratim vrednosti na pocetak).       \
+https://codeforces.com/problemset/problem/706/E
