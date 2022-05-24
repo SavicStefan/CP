@@ -219,3 +219,6 @@ https://codeforces.com/problemset/problem/706/E
 
 Gledamo granu sa najvecom tezinom to znaci da bilo koji put izmedju cvorova "LEVO" i "DESNO" ce sadrzati ovu granu, i onda izbrisemo tu granu i gledamo "LEVU" komponentu i "DESNU" komponetnu itd. Sam tim cemo kontrusati binarno stablo i svakoj toj grani cemo dodati cvor i njega cemo vezivati sa LEVOM-om i DESNO-om komponentom (a covorovi u grapu ce biti leaf-ovi u binarnom stablu). I onda za max tezinu izmedju dva cvora je samo LCA da dva cvora u binarnom stablu. I onda samo klasicno lazu segment sa updateove.      \
 https://codeforces.com/contest/1628/problem/E
+
+Kada nam da treba odgovor i iz [l, r] da vazi Li >= l dodaj Vi, a i imamo update. To bi mogli tako sto bi za svako i dodali na svako persistento od [i, n] vrednost Vi na poziciju Li, ali to je presporo. Tako da mozemo da vidimo da je to kao prefix sum, tako da mozemo da koristmo fenwick-a i samo one peristente u update u fenwcik dodajemo ovu vrednost      \
+https://codeforces.com/problemset/problem/848/C
