@@ -222,3 +222,6 @@ https://codeforces.com/contest/1628/problem/E
 
 Kada nam da treba odgovor i iz [l, r] da vazi Li >= l dodaj Vi, a i imamo update. To bi mogli tako sto bi za svako i dodali na svako persistento od [i, n] vrednost Vi na poziciju Li, ali to je presporo. Tako da mozemo da vidimo da je to kao prefix sum, tako da mozemo da koristmo fenwick-a i samo one peristente u update u fenwcik dodajemo ovu vrednost      \
 https://codeforces.com/problemset/problem/848/C
+
+Dobro nam je kad nam je prava u obliku Ax + By = C, onda ako su date 2 tacke (x1, y1) i (x2, y2), za A, B i C sledi A = y2-y1, B = x1-x2, C = Ax1+By1
+https://dmoj.ca/problem/coci06c2p6
