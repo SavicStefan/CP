@@ -196,3 +196,6 @@ https://atcoder.jp/contests/abc218/tasks/abc218_f
 
 63. Kad radimo walk na segmentnon ako hocemo da nadjemo najvecu poziciju za koju vazi, uveke cemo ispisivati tl - 1, e sad to znaci da moram da gledamo segmentnon na range-u [1, n + 1], kako bi n nekad moglo da bude resenj         \
 https://codeforces.com/problemset/problem/1236/E
+
+64. Kada gledamo neki shortest path sa bfs-om, na nekom layeru nam se mozda jave cvorovi u koje nikad necemo uci i njih mozemo da ignorisemo i samim tim smanjimo slozenost         \
+https://codeforces.com/contest/1612/problem/F
