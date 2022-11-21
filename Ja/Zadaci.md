@@ -225,3 +225,6 @@ https://codeforces.com/problemset/problem/848/C
 
 Dobro nam je kad nam je prava u obliku Ax + By = C, onda ako su date 2 tacke (x1, y1) i (x2, y2), za A, B i C sledi A = y2-y1, B = x1-x2, C = Ax1+By1
 https://dmoj.ca/problem/coci06c2p6
+
+Dobijao sam TLE(posto je mnogo cvorova imao trie), a kod trie je bitno da od pocetka do tr budu svi isti i primetimo da su mi isti (i, Ai) (j, Aj) na k-tom bitu kada je xor za k-ti bit jednak izmedju dva para, tako da mozemo da smanjimo trie samo na xor = 0 i xor = 1. Ako hocemo da da k-ti bude veci, samo cuvamo kombinaciju za (j, Aj), tako za (i, Ai) bude vece i samo cuvamo maximalu u svakom cvoru -> mx[tr][i][j]          \
+https://codeforces.com/contest/1720/problem/D2
