@@ -228,3 +228,6 @@ https://dmoj.ca/problem/coci06c2p6
 
 Dobijao sam TLE(posto je mnogo cvorova imao trie), a kod trie je bitno da od pocetka do tr budu svi isti i primetimo da su mi isti (i, Ai) (j, Aj) na k-tom bitu kada je xor za k-ti bit jednak izmedju dva para, tako da mozemo da smanjimo trie samo na xor = 0 i xor = 1. Ako hocemo da da k-ti bude veci, samo cuvamo kombinaciju za (j, Aj), tako za (i, Ai) bude vece i samo cuvamo maximalu u svakom cvoru -> mx[tr][i][j]          \
 https://codeforces.com/contest/1720/problem/D2
+
+Hashovanje skupa proslo je kada sam koristio 2 prosta stepen1    \
+https://codeforces.com/contest/1794/problem/E
