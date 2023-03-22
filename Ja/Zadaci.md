@@ -231,3 +231,5 @@ https://codeforces.com/contest/1720/problem/D2
 
 Hashovanje skupa proslo je kada sam koristio 2 prosta stepen1    \
 https://codeforces.com/contest/1794/problem/E
+
+Pokusavamo nekako da ogranicimo diametar, ako gledamo od nekog cvora v, max distancu = mx, meni vazi: dia <= 2 * mx (Neka je dia = dist(a, b) ako je dia > 2 * mx, a ja znam da postoji put izmedju a i b gde je dist(a, b) <= 2 * mx i onda imamo manje rastojanje, a kako je dist(a, b) = dia minimalno rastonjanje izmedju njjih to je kontradikcija) i vazi onda dia / 2 <= mx <= 2 * dia. Meni se dia smanjuje sto idem dalje u kverije, mx >= dia / 2 uvek vazi, a mx necu vise moci da korstim ako je 2 * dia < mx sledi da mogu da korstim mx / 2 i tako da dalje radim sve dok ne dodjem do zadnjeg kverija.
