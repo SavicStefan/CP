@@ -19,7 +19,10 @@
    4. https://codeforces.com/contest/1786
    5. https://codeforces.com/contest/1792
    6. https://codeforces.com/contest/1778
-   7. 
+   
+  ## Olimpijade
+   1. https://hsin.hr/coci/archive/2021_2022/
+   2. https://hsin.hr/coci/archive/2020_2021/
   
   ## Zadaci
    1. https://www.codechef.com/problems/NANDXOR
