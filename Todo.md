@@ -1,7 +1,29 @@
-# Todo List
-  1. https://codeforces.com/contest/1795/problem/G
-  2. https://codeforces.com/contest/1802/problem/G
-  3. https://codeforces.com/contest/1792
-  4. https://codeforces.com/contest/1789
-  5. https://codeforces.com/contest/1778
-  6. https://codeforces.com/contest/1804
+# Kamp 4.4 - 9.4 (Cilj 1900+)
+
+  ## Novi
+  1. https://codeforces.com/contest/1805
+  2. https://codeforces.com/contest/1810
+  3. https://codeforces.com/contest/1798
+  4. https://codeforces.com/contest/1809
+  5. https://codeforces.com/contest/1796
+  6. https://codeforces.com/contest/1799
+  7. https://codeforces.com/contest/1789
+  8. https://codeforces.com/contest/1788
+  9. https://codeforces.com/contest/1774
+  10. https://codeforces.com/contest/1787
+
+  ## Zavrsiti
+   1. https://codeforces.com/contest/1808
+   2. https://codeforces.com/contest/1795
+   3. https://codeforces.com/contest/1793
+   4. https://codeforces.com/contest/1786
+   5. https://codeforces.com/contest/1792
+   6. https://codeforces.com/contest/1778
+   7. 
+  
+  ## Zadaci
+   1. https://www.codechef.com/problems/NANDXOR
+   2. https://www.codechef.com/problems/COOKPERM
+   3. https://www.codechef.com/START80B/problems/EATROCK
+   4. https://www.codechef.com/problems/C8KBFTREE?tab=statement
+   5. https://www.codechef.com/START80B/problems/MATPAIN80
