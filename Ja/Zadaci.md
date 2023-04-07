@@ -238,6 +238,8 @@ https://codeforces.com/problemset/problem/1804/F
 Prvo gledamo brute force resenje sa cuvanjem ivica i to nase resnje je O(nsqrt(n)log(n)) sto je presporo. Hocemo nekako da se resimo log(n) faktora to radimo tako sto gledamo koliko svaki nivo ima cvorova, ako gledamo svaki i-ti nivo i oni imaju cnt[i] < sqrt(n), mi to mozemo da cuvamo u nizu samo svaki par (x,y) imacemo ukupno nsqrt(n). Ako gledam svaki i-ti nivo i oni imaju cnt[i] >= sqrt(n), kroz njih mozemo samo da prodjem poshto njih ima max nsqrt(n)    \
 https://codeforces.com/contest/1806/problem/E
 
-
+Kada primetimo svojstvo funkcije F, gledamo sa kojim x da ga oduzmemo svaki put, ako ga oduzmemo sa minimumom nama je onda niz oblika 0, A1, A2, ... An
+iz cega slede da nam je max clan F([0,A1,A2.,,,,An]) <= An iz cega sledi da ce nam uvek vrednosti biti <= 10^9      \
+https://codeforces.com/contest/1805/problem/F1
 
 
