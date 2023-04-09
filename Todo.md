@@ -30,3 +30,4 @@
    3. https://www.codechef.com/START80B/problems/EATROCK
    4. https://www.codechef.com/problems/C8KBFTREE?tab=statement
    5. https://www.codechef.com/START80B/problems/MATPAIN80
+   6. https://codeforces.com/problemset/problem/763/E
