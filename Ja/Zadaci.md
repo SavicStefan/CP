@@ -242,4 +242,5 @@ Kada primetimo svojstvo funkcije F, gledamo sa kojim x da ga oduzmemo svaki put,
 iz cega slede da nam je max clan F([0,A1,A2.,,,,An]) <= An iz cega sledi da ce nam uvek vrednosti biti <= 10^9      \
 https://codeforces.com/contest/1805/problem/F1
 
-
+Gledam kako da mergujem componente, mogu da pravim graph kao Kruskal tree (Werewolf trick) i ukupno nece biti vise od 2 * log(n) * n cvorova ili gledamo da predajemo od 1 komponenta vrednost da mogu i onda kad roolback radimo predamo deci ako je moglo, a ako nije moglo vratimo staru vrednost (samo sam trebao da zamislim DSU kao kruskal tree)    \
+https://codeforces.com/contest/1814/problem/F
