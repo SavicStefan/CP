@@ -1,8 +1,8 @@
 # Kamp 4.4 - 9.4 (Cilj 1900+)
 
   ## Novi
-  1. https://codeforces.com/contest/1805
-  2. https://codeforces.com/contest/1810
+  1. https://codeforces.com/contest/1805 -> gotov
+  2. https://codeforces.com/contest/1810 -> gotov
   3. https://codeforces.com/contest/1798
   4. https://codeforces.com/contest/1809
   5. https://codeforces.com/contest/1796
