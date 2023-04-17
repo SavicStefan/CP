@@ -244,3 +244,6 @@ https://codeforces.com/contest/1805/problem/F1
 
 Gledam kako da mergujem componente, mogu da pravim graph kao Kruskal tree (Werewolf trick) i ukupno nece biti vise od 2 * log(n) * n cvorova ili gledamo da predajemo od 1 komponenta vrednost da mogu i onda kad roolback radimo predamo deci ako je moglo, a ako nije moglo vratimo staru vrednost (samo sam trebao da zamislim DSU kao kruskal tree)    \
 https://codeforces.com/contest/1814/problem/F
+
+Bitno nam je da je xor izmedju u i v -> d[u] ^ d[v], a znamo da je d[1] = 0 i onda napravi graph sa upitima i bitne su nam komponente i ako je jednom cvor u komponentu damo da je X mi znamo sve ostale (d[1] = 0 uvek). I vidimo da nam doprinosi minimalon xoru samo cvorovi koji ima neparan degree i samo stavimo da je ukupan trenutni xor X u nekoj komponenti koja ima neparan broj cvorova koji dobrinosi resnju       \
+https://codeforces.com/contest/1788/problem/F
