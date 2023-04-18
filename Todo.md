@@ -31,3 +31,4 @@
    4. https://www.codechef.com/problems/C8KBFTREE?tab=statement
    5. https://www.codechef.com/START80B/problems/MATPAIN80
    6. https://codeforces.com/problemset/problem/763/E
+   7. https://codeforces.com/contest/990/problem/F (Obavezno)
