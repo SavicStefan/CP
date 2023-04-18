@@ -250,3 +250,7 @@ https://codeforces.com/contest/1788/problem/F
 
 Primetimo da je len <= 40 i odmah sam video da optrilike gledamo za len <= 20 da li ima brute force resenje i ispostavi se da ima tako sto prolazimo kroz maske i onda samo gledamo levo i desno koliko ima istih stringova, to radi posto meni je k >= 5 i samim tim svaki string koji se pojavljuje vise 5 puta mora se nalzati barem u jednom bloku [i - N / 5 + 1, i]     \
 https://codeforces.com/contest/1789/problem/F
+
+Gledamo samo da vidimo za a koliko ima u nizu tako da a deli? Kako a | S[n] -> da a ima proste faktore is S[n], sto znaci da nas ostali prosti faktori ne interesuju i onda mozemo da uradimo S[i] = gcd(S[i], S[n]) iz cega sledi S[i] | S[n] tako da su S[i] u stvari delioci os S[n] kojih ima najvise 2sqrt(S[n]) i onda samo prodjem i vidimo koliko a deli     \
+https://codeforces.com/contest/1789/problem/E
+
