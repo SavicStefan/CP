@@ -247,3 +247,6 @@ https://codeforces.com/contest/1814/problem/F
 
 Bitno nam je da je xor izmedju u i v -> d[u] ^ d[v], a znamo da je d[1] = 0 i onda napravi graph sa upitima i bitne su nam komponente i ako je jednom cvor u komponentu damo da je X mi znamo sve ostale (d[1] = 0 uvek). I vidimo da nam doprinosi minimalon xoru samo cvorovi koji ima neparan degree i samo stavimo da je ukupan trenutni xor X u nekoj komponenti koja ima neparan broj cvorova koji dobrinosi resnju       \
 https://codeforces.com/contest/1788/problem/F
+
+Primetimo da je len <= 40 i odmah sam video da optrilike gledamo za len <= 20 da li ima brute force resenje i ispostavi se da ima tako sto prolazimo kroz maske i onda samo gledamo levo i desno koliko ima istih stringova, to radi posto meni je k >= 5 i samim tim svaki string koji se pojavljuje vise 5 puta mora se nalzati barem u jednom bloku [i - N / 5 + 1, i]     \
+https://codeforces.com/contest/1789/problem/F
