@@ -7,8 +7,8 @@
   4. https://codeforces.com/contest/1809
   5. https://codeforces.com/contest/1796
   6. https://codeforces.com/contest/1799
-  7. https://codeforces.com/contest/1789
-  8. https://codeforces.com/contest/1788
+  7. https://codeforces.com/contest/1789 -> gotov
+  8. https://codeforces.com/contest/1788 -> gotov
   9. https://codeforces.com/contest/1774
   10. https://codeforces.com/contest/1787
 
