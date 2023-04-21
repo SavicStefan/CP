@@ -254,3 +254,6 @@ https://codeforces.com/contest/1789/problem/F
 Gledamo samo da vidimo za a koliko ima u nizu tako da a deli? Kako a | S[n] -> da a ima proste faktore is S[n], sto znaci da nas ostali prosti faktori ne interesuju i onda mozemo da uradimo S[i] = gcd(S[i], S[n]) iz cega sledi S[i] | S[n] tako da su S[i] u stvari delioci os S[n] kojih ima najvise 2sqrt(S[n]) i onda samo prodjem i vidimo koliko a deli     \
 https://codeforces.com/contest/1789/problem/E
 
+Teorema: Za bilo koja 2n-1 broja mozese izabrati n tako da im je suma deljiva sa n. Ajde da rasporedimo kutije u k-1 najmanjih klasa, a najvecu cemo stavi samo sk - 1 kutija i dodati novu u nju. Ako gledamo i-tu kutiju, a sve pre smo vec izabrali to znaci da nam je ostalo si+...+sk - 1 kutija, kako je sk >= si meni je ostalo barem 2*si - 1 kutija i prema teoremi vazi da postoji si kutija tako da si deli sumu. Za poslednju samo dodam onoliko koliko mi fali da sk deli sumu       \
+https://codeforces.com/contest/1798/problem/F
+
