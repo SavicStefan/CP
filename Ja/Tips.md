@@ -199,3 +199,6 @@ https://codeforces.com/problemset/problem/1236/E
 
 64. Kada gledamo neki shortest path sa bfs-om, na nekom layeru nam se mozda jave cvorovi u koje nikad necemo uci i njih mozemo da ignorisemo i samim tim smanjimo slozenost         \
 https://codeforces.com/contest/1612/problem/F
+
+65. Ako treba da vidimo da li C deli svaki element niza, dovoljno je samo da deli njihov gcd    \
+https://codeforces.com/contest/1798/problem/C
