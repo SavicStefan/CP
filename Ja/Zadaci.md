@@ -257,3 +257,6 @@ https://codeforces.com/contest/1789/problem/E
 Teorema: Za bilo koja 2n-1 broja mozese izabrati n tako da im je suma deljiva sa n. Ajde da rasporedimo kutije u k-1 najmanjih klasa, a najvecu cemo stavi samo sk - 1 kutija i dodati novu u nju. Ako gledamo i-tu kutiju, a sve pre smo vec izabrali to znaci da nam je ostalo si+...+sk - 1 kutija, kako je sk >= si meni je ostalo barem 2*si - 1 kutija i prema teoremi vazi da postoji si kutija tako da si deli sumu. Za poslednju samo dodam onoliko koliko mi fali da sk deli sumu       \
 https://codeforces.com/contest/1798/problem/F
 
+Odmah sam nasao O(n^2) resenje, iz nekog razloga nisam probao reroot sa mn1[v] i mn2[v], ispostavi se da menjam samo v i u, i da se lako resi zadatak u kombinaciji sa nekom stuktruom da nadjem min svih drugih najmanjih puteva. \
+https://codeforces.com/contest/1796/problem/E
+
