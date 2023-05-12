@@ -202,3 +202,6 @@ https://codeforces.com/contest/1612/problem/F
 
 65. Ako treba da vidimo da li C deli svaki element niza, dovoljno je samo da deli njihov gcd    \
 https://codeforces.com/contest/1798/problem/C
+
+66. Ako nemoze brze da se uradi ma koliko gledao, probaj bitset!!!       \
+https://codeforces.com/contest/1826/problem/E
