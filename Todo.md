@@ -3,9 +3,9 @@
   ## Novi
   1. https://codeforces.com/contest/1805 -> gotov
   2. https://codeforces.com/contest/1810 -> gotov
-  3. https://codeforces.com/contest/1798
-  4. https://codeforces.com/contest/1809
-  5. https://codeforces.com/contest/1796
+  3. https://codeforces.com/contest/1798 -> gotov
+  4. https://codeforces.com/contest/1809 -> gotov
+  5. https://codeforces.com/contest/1796 -> gotov
   6. https://codeforces.com/contest/1799
   7. https://codeforces.com/contest/1789 -> gotov
   8. https://codeforces.com/contest/1788 -> gotov
