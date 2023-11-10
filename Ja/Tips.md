@@ -205,3 +205,6 @@ https://codeforces.com/contest/1798/problem/C
 
 66. Ako nemoze brze da se uradi ma koliko gledao, probaj bitset!!!       \
 https://codeforces.com/contest/1826/problem/E
+
+67. Ovde mi nije prolazilo sa bitset-om zato sto sam svaki put radio za bitset velicine 10^6 sto je previse skupo, ustvari sam trebao kao u resenju da pravim const velicine bitset u odnosu na stepen dvojke, sto bi dozvolilo da ne radim operaciju u nepotrebo (pogledati i kodove prijatelja oni isto tako koriste)      \
+https://codeforces.com/contest/1856/problem/E2
