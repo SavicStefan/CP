@@ -208,3 +208,6 @@ https://codeforces.com/contest/1826/problem/E
 
 67. Ovde mi nije prolazilo sa bitset-om zato sto sam svaki put radio za bitset velicine 10^6 sto je previse skupo, ustvari sam trebao kao u resenju da pravim const velicine bitset u odnosu na stepen dvojke, sto bi dozvolilo da ne radim operaciju u nepotrebo (pogledati i kodove prijatelja oni isto tako koriste)      \
 https://codeforces.com/contest/1856/problem/E2
+
+68. Kad imamo niz i za svako i treba da vidim koliko ima brojeva da i deli, samo mozemo da proste mnozioce 2i, 3i, 5i, 7i, ... , ali tako ce dodji do ponavaljnja zato idemo po prostim brojevima i unazada samo dodajeno cnt[i] += cnt[p * i]    \
+https://codeforces.com/contest/1614/problem/D2
