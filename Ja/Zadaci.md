@@ -260,3 +260,5 @@ https://codeforces.com/contest/1798/problem/F
 Odmah sam nasao O(n^2) resenje, iz nekog razloga nisam probao reroot sa mn1[v] i mn2[v], ispostavi se da menjam samo v i u, i da se lako resi zadatak u kombinaciji sa nekom stuktruom da nadjem min svih drugih najmanjih puteva. \
 https://codeforces.com/contest/1796/problem/E
 
+Skontao sam sve, osim dela gde treba da vidim oni palidnrom koji se zaustave na i, nisam uvideo da za postoji ukupno n onih kojih treba da pogledam za svako i. Za trazenje palidnroma moze i SuffixArray da radimo samo napravimo s + "#" + rev(s) + "$" i onda je lako.     \
+https://codeforces.com/contest/1913/problem/F
