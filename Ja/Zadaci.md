@@ -262,3 +262,6 @@ https://codeforces.com/contest/1796/problem/E
 
 Skontao sam sve, osim dela gde treba da vidim oni palidnrom koji se zaustave na i, nisam uvideo da za postoji ukupno n onih kojih treba da pogledam za svako i. Za trazenje palidnroma moze i SuffixArray da radimo samo napravimo s + "#" + rev(s) + "$" i onda je lako.     \
 https://codeforces.com/contest/1913/problem/F
+
+Ovo je bio 2-SAT problem, skotna se da ako postoji ivica (u, v) onda treba da se doda u jendakost (u|v), to je uslov vertex cover-a. Ako smo fiksirali duzinu na d, i gledamo da su sve udaljene za bar d, onda za neka dva cvora a i b, vazi da ako su |a - b| < d, treba da se doda u jednakost (~a|~b), to je kao ili jedan ili drugi da mogu da se uzmu. Posto bi ti bili puno cvorova. vazi da mozemo segemnete da posmatramu u segmentom stablu kao Dynamic connectivity, i sad recimo da spojimo cvor 1 ne moze sa 23, onda postoji (~1|~23), a treba da mogu da imam i (~1|~2) i (~1|~3) i onda vidimo da mora da postoji (23|~2) i (23|~3), sto znaci da (v|~2v) i (v|~2v+1). I onda samo treba da vidimo da li jednakost ima resenja.   \
+https://codeforces.com/contest/1903/problem/F
