@@ -212,5 +212,5 @@ https://codeforces.com/contest/1856/problem/E2
 68. Kad imamo niz i za svako i treba da vidim koliko ima brojeva da i deli, samo mozemo da proste mnozioce 2i, 3i, 5i, 7i, ... , ali tako ce dodji do ponavaljnja zato idemo po prostim brojevima i unazada samo dodajeno cnt[i] += cnt[p * i]    \
 https://codeforces.com/contest/1614/problem/D2
 
-69. Kad se iz nekog razloga pojavljuje rec parno puno puta probati Euler Path ili Euler Circuit, je l oni vaze samo kad je svaki cvor parnog stepena (osim 2 kod path-a)      \
+69. Kad se iz nekog razloga pojavljuje rec parno puno puta probati Euler Path ili Euler Circuit, je l oni vaze samo kad je svaki cvor parnog stepena (osim 2 kod path-a). Euler circuit to je unija EUler-ovih ciklusa i samim tim sto nam ispunjava uslov graph to teoremi mozemo samo da uzimamo zadnji sa graph-a i redom gledamo sve dok se ne vratimo do njega i ne mozemo dalje sto sam da je uslov algoritha nekog na wikipediji, i onda samo nastavio da trazimo ciklus od nekog drugog cvora do kraja (ima algoritam u mom resenju zadatka)       \
 https://codeforces.com/contest/1634/problem/E
