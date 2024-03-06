@@ -211,3 +211,6 @@ https://codeforces.com/contest/1856/problem/E2
 
 68. Kad imamo niz i za svako i treba da vidim koliko ima brojeva da i deli, samo mozemo da proste mnozioce 2i, 3i, 5i, 7i, ... , ali tako ce dodji do ponavaljnja zato idemo po prostim brojevima i unazada samo dodajeno cnt[i] += cnt[p * i]    \
 https://codeforces.com/contest/1614/problem/D2
+
+69. Kad se iz nekog razloga pojavljuje rec parno puno puta probati Euler Path ili Euler Circuit, je l oni vaze samo kad je svaki cvor parnog stepena (osim 2 kod path-a)      \
+https://codeforces.com/contest/1634/problem/E
