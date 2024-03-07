@@ -265,3 +265,7 @@ https://codeforces.com/contest/1913/problem/F
 
 Ovo je bio 2-SAT problem, skotna se da ako postoji ivica (u, v) onda treba da se doda u jendakost (u|v), to je uslov vertex cover-a. Ako smo fiksirali duzinu na d, i gledamo da su sve udaljene za bar d, onda za neka dva cvora a i b, vazi da ako su |a - b| < d, treba da se doda u jednakost (~a|~b), to je kao ili jedan ili drugi da mogu da se uzmu. Posto bi ti bili puno cvorova. vazi da mozemo segemnete da posmatramu u segmentom stablu kao Dynamic connectivity, i sad recimo da spojimo cvor 1 ne moze sa 23, onda postoji (~1|~23), a treba da mogu da imam i (~1|~2) i (~1|~3) i onda vidimo da mora da postoji (23|~2) i (23|~3), sto znaci da (v|~2v) i (v|~2v+1). I onda samo treba da vidimo da li jednakost ima resenja.   \
 https://codeforces.com/contest/1903/problem/F
+
+Ako treba skup u skupu izmedju svaka dva da xor bude veci od K, to u stvari znaci da minimalni xor izmedju dva treba da bude >= K, to je "well known" problem, samo sortiramo sve i gledamo najmanji xor izmedju susednih, sto znaci u stvari da svaka dva susedna u sortiranom nizu treba da budu >= K. I onda cemo samo gledati dp[i] - max njih ako je xor izmedju susdenih >= K, sto znaci dp[i] = max(dp[i], dp[j] + 1), niz[i] ^ niz[j] >= K  \
+https://codeforces.com/contest/1625/problem/D
+
