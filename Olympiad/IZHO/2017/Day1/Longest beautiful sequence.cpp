@@ -35,15 +35,14 @@ using ordered_set = tree<T, null_type, less<T>, rb_tree_tag, tree_order_statisti
 
 const int mod = 1000000007;
 const int inf = 1e9 + 5;
-const int mxN = 100005; 
+const int mxN = 100001; 
 
 int n;
 int A[mxN];
 int K[mxN];
 
 const int L = 10;
-int dp[(1 << L)][(1 << L)][11];
-int ko[(1 << L)][(1 << L)][11];
+pii dp[(1 << L)][(1 << L)][11];
 
 int par[mxN];
 
@@ -54,45 +53,31 @@ int main(){
     ff(i,1,n)cin >> A[i];
     ff(i,1,n)cin >> K[i];
 
-    int rez = 0, g = 0;
+    pii rez = {0, 0};
     ff(i,1,n){
         int ad = A[i] & ((1 << L) - 1);
         int ag = A[i] >> L;
 
-        int mx = 1, gde = 0;
+        pii mx = {0, 0};
         ff(mask,0,(1 << L) - 1){
-            ff(j,0,10){
-                if(j + __builtin_popcount(mask & ad) == K[i]){
-                    
-                    if(dp[mask][ag][j] + 1 > mx){
-                        mx = dp[mask][ag][j] + 1;
-                        gde = ko[mask][ag][j];
-                    }
-
-                }
+            int k = K[i] - __builtin_popcount(mask & ad);
+            if(0 <= k && k <= 10){
+                mx = max(mx, dp[mask][ag][k]);
             }
         }
 
-        par[i] = gde;
-        if(mx > rez){
-            rez = mx;
-            g = i;
-        }
+        pii cur = {mx.fi + 1, i}; par[i] = mx.se;
 
+        rez = max(rez, cur);
         ff(mask,0,(1 << L) - 1){
             int k = __builtin_popcount(ag & mask);
-
-            if(dp[ad][mask][k] < mx){
-                dp[ad][mask][k] = mx;
-                ko[ad][mask][k] = i;
-            }
-
+            dp[ad][mask][k] = max(dp[ad][mask][k], cur);
         }        
 
     }
 
     vector<int> res;
-    for(int i = g; i != 0; i = par[i])res.pb(i);
+    for(int i = rez.se; i != 0; i = par[i])res.pb(i);
 
     cout << sz(res) << '\n'; reverse(all(res));
     for(auto c : res)cout << c << " ";
@@ -116,8 +101,3 @@ int main(){
 
 // probati bojenje sahovski
 */
- 
- 
- 
- 
- 
